@@ -66,10 +66,10 @@ int main() {
     word_t value;
     int success = VMread(0, &value);
     // Perform other virtual memory operations...
-```
 
     return 0;
 }
+```
 
 Please refer to the individual source files for detailed comments and
 documentation on each module's functionality.
