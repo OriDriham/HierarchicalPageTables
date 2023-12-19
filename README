@@ -56,6 +56,7 @@ The virtual memory system can be utilized by including the necessary header
 files and linking against the compiled library.
 
 Example:
+You can write the following main function:
 
 #include "VirtualMemory.h"
 
