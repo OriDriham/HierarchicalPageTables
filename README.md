@@ -1,4 +1,4 @@
-# Hierarchical Page Tables
+# Virtual Memory System
 
 This project implements a virtual memory system with hierarchical page tables.\
 The system consists of several components, each implemented in a separate file.
