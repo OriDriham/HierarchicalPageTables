@@ -67,6 +67,7 @@ int main() {
     return 0;
 }
 ```
+You can also use the SimpleTest.cpp file I included.
 
 Please refer to the individual source files for detailed comments and
 documentation on each module's functionality.
